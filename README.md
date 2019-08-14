@@ -24,10 +24,10 @@ Move the mu-pluigins folders to  wp-content directory. This folder contains info
 For theme, move the files to wp-content/themes/ directory.
 
 ## Built With
-HTML
-CSS
-JQUERY
-PHP
+- HTML
+- CSS
+- JQUERY
+- PHP
 
 ## License
 
