@@ -13,10 +13,10 @@ This is a wordpress theme for schools, colleges and universities.
 ### Prerequisites
 
 You need to have wordpress installed and the following plugins are recommended to be installed for proper functionality :
-[Advanced Custom Fields](https://wordpress.org/plugins/advanced-custom-fields/)
-[Manual Image Crop](https://wordpress.org/plugins/manual-image-crop/)
-[Members](https://wordpress.org/plugins/members/)
-[Regenerate Thumbnails](https://wordpress.org/plugins/regenerate-thumbnails/)
+* [Advanced Custom Fields](https://wordpress.org/plugins/advanced-custom-fields/)
+* [Manual Image Crop](https://wordpress.org/plugins/manual-image-crop/)
+* [Members](https://wordpress.org/plugins/members/)
+* [Regenerate Thumbnails](https://wordpress.org/plugins/regenerate-thumbnails/)
 
 ### Installing
 
