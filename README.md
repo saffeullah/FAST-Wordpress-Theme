@@ -9,6 +9,11 @@ This is a wordpress theme for schools, colleges and universities.
 * After registeration users get functionality to add notes and like the professors.
 * Search is AJAX based and is relation based i.e Searching for biology will lead results that contain Professors and campuses             teaching biology, with addition of related events also.
           
+ ![](screenshot/1.png) 
+ ![](screenshot/4.png) 
+ ![](screenshot/3.png) 
+ ![](screenshot/2.png) 
+ ![](screenshot/5.png) 
 
 ### Prerequisites
 
